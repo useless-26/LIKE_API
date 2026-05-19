@@ -5,4 +5,4 @@ googleapis-common-protos
 pycryptodome
 protobuf
 Werkzeug
-firebase-admin
+gunicorn==21.2.0
